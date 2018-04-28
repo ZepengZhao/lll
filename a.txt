@@ -3,5 +3,9 @@ swdsd
 branch
 
 try
+<<<<<<< HEAD
 conflit
-master
+conflit
+=======
+conflit
+>>>>>>> feature1
